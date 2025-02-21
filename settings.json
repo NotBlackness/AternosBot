@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "SlobosVideos.aternos.me", 
-    "port": 13855,   
+    "ip": "CelestialSouls.aternos.me", 
+    "port": 54576,   
     "version": "1.12.1"   
   },
   
